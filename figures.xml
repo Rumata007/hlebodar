@@ -2,27 +2,27 @@
 <StatisticList>
 	<Number>
 		<Title>Заявки</Title>
-		<Total>4553</Total>
-		<Done>179</Done>
+		<Total>6254</Total>
+		<Done>245</Done>
 	</Number>
 	<Number>
 		<Title>Тендеры</Title>
-		<Total>119</Total>
-		<Done>18</Done>
+		<Total>124</Total>
+		<Done>17</Done>
 	</Number>
 	<Number>
 		<Title>Аукционы</Title>
-		<Total>277</Total>
+		<Total>298</Total>
 		<Done>22</Done>
 	</Number>
 	<Number>
 		<Title>Договора</Title>
-		<Total>340</Total>
-		<Done>18</Done>
+		<Total>345</Total>
+		<Done>22</Done>
 	</Number>
 	<Number>
 		<Title>Заказы</Title>
-		<Total>5334</Total>
-		<Done>176</Done>
+		<Total>5775</Total>
+		<Done>178</Done>
 	</Number>
 </StatisticList>
