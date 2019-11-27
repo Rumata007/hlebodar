@@ -1,82 +1,141 @@
 <data>
 <Tenders>
-  <____>
-    <Time>Tue Nov 26 2019 00:00:00 GMT-0500 (EST)</Time>
+    <____>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
     <Type>Запрос ценовых предложений</Type>
     <Title>Насіння льону коричневого</Title>
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
     <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-11-19-1000007-z</Link>
   </____>
+  <_721>
+    <Time>Mon Dec 02 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Выбор организации по оказанию услуг – стирка 
+ чехлов ,спецодежды на ООО «Мелитопольский хлебокомбинат»</Title>
+    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_721>
+  <_720>
+    <Time>Fri Nov 29 2019 07:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пленка ВОРР 400мм/25мкм</Title>
+    <Company>ТДВ "Запорізький хлібозавод №5"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_720>
+  <_719>
+    <Time>Fri Nov 29 2019 06:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>масло дезодарированое, декабрь 2019, ЗХЗ№5</Title>
+    <Company>ТДВ "Запорізький хлібозавод №5"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_719>
+  <_718>
+    <Time>Fri Nov 29 2019 03:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>масло дезодарированое, декабрь 2019</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_718>
+  <_717>
+    <Time>Thu Nov 28 2019 10:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Повидло яблучне - ДСТУ 6072-2009
+ или другая НД на Декабрь 2019</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_717>
+  <_716>
+    <Time>Fri Nov 29 2019 07:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Бумага пергамент силиконизированный рез 800*970мм, 39г/м2</Title>
+    <Company>ООО "УК Агросервис 2000"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_716>
+  <_715>
+    <Time>Tue Dec 03 2019 06:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Плівка ВОРР 25мкм</Title>
+    <Company>ООО "УК Агросервис 2000"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_715>
+  <_714>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Выбор организации по оказанию услуг – мойка лотков
+ ООО «Мелитопольский хлебокомбинат»</Title>
+    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_714>
+  <_713>
+    <Time>Fri Nov 29 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пеллета з лузги соняшника</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_713>
+  <_712>
+    <Time>Thu Nov 28 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Папір А4</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_712>
+  <_710>
+    <Time>Wed Nov 27 2019 10:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>маргарин безтрансовый на декабрь 2019</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_710>
+  <_709>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>шортенинг на декабрь 2019</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_709>
+  <_708>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>масло подсолнечное регионы, декабрь 2019</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_708>
   <_707>
-    <Time>Wed Nov 27 2019 03:30:00 GMT-0500 (EST)</Time>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
     <Title>маргарин молочный 82%, декабрь, 2019</Title>
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_707>
   <_706>
-    <Time>Tue Nov 26 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
     <Title>Піддони дерев'яні</Title>
     <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_706>
-  <_705>
-    <Time>Wed Nov 27 2019 05:00:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>масло подсолнечноеМелитопольский хлебозавод, декабрь 2019</Title>
-    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_705>
   <_704>
-    <Time>Wed Nov 27 2019 03:00:00 GMT-0500 (EST)</Time>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
     <Title>масло подсолнечное на декабрь, Запорожье</Title>
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_704>
-  <_703>
-    <Time>Wed Nov 27 2019 02:00:00 GMT-0500 (EST)</Time>
+  <_692>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>солод на декабрь, 2019</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_703>
-  <_701>
-    <Time>Mon Nov 25 2019 04:30:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>клейковина на декабрь 2019</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_701>
-  <_700>
-    <Time>Mon Nov 25 2019 05:00:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Природній газ 09123000-7</Title>
-    <Company>ТДВ "Запорізький хлібозавод №5"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_700>
-  <_698>
-    <Time>Mon Nov 25 2019 04:00:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Скотч прозрачный в ассортименте</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_698>
-  <_614>
-    <Time>Mon Nov 25 2019 03:45:00 GMT-0500 (EST)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Поточний ремонт хлібопекарської печі</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_614>
-  <_366>
-    <Time>Thu Nov 28 2019 05:00:00 GMT-0500 (EST)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Усилению внешней стены бытовых помещений производственного корпуса по оси Е-У на ОДО «Бердянский хлебокомбинат»</Title>
+    <Title>Форма для випікання (паперова)</Title>
     <Company>ТДВ "Бердянський хлібокомбінат"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_366>
+  </_692>
+  <_689>
+    <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Лотки хлібні</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_689>
  </Tenders>
 </data>
 
