@@ -1,6 +1,6 @@
 <data>
 <Tenders>
-    <____>
+  <____>
     <Time>Fri Nov 29 2019 02:00:00 GMT-0500 (EST)</Time>
     <Type>Запрос ценовых предложений</Type>
     <Title>Насіння льону коричневого</Title>
@@ -136,6 +136,20 @@
     <Company>ТДВ "Бердянський хлібокомбінат"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_689>
+  <_736>
+    <Time>Tue Dec 10 2019 04:15:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Промывка наружных канализационных сетей и колодцев на ОДО «Бердянский хлебокомбинат</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_736>
+  <_735>
+    <Time>Tue Dec 10 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Термотрансферний принтер TT5 RH в комплекті</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_735>
  </Tenders>
 </data>
 
