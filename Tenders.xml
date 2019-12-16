@@ -1,6 +1,6 @@
 <data>
 <Tenders>
- <____>
+  <____>
     <Time>Mon Dec 16 2019 04:00:00 GMT-0500 (EST)</Time>
     <Type>Запрос ценовых предложений</Type>
     <Title>Жито - ДСТУ 4522:2006</Title>
@@ -77,13 +77,6 @@
     <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_735>
-  <_750>
-    <Time>Wed Dec 18 2019 05:00:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>ГСМ</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_750>
   <_749>
     <Time>Wed Dec 11 2019 05:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
@@ -91,6 +84,79 @@
     <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_749>
+  <_760>
+    <Time>Wed Dec 18 2019 08:45:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Детали устройства водоснабжения и канализации участка лаваша на ТДВ "Запорізький хлібозавод №3"</Title>
+    <Company>ТДВ "Запорізький хлібозавод №3"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_760>
+  <_759>
+    <Time>Wed Dec 18 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Брендирование автомобилей Renault Master</Title>
+    <Company>Запоріжхлібтранс ТОВ</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_759>
+  <_758>
+    <Time>Wed Jan 08 2020 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Восстановление лестничной площадки и марша к бункерам хранения муки
+ ООО «Мелитопольский хлебокомбинат»</Title>
+    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_758>
+  <_757>
+    <Time>Fri Dec 20 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Ремонт стен и удаление не нужных конструкций в помещениях основного корпуса участка упаковки и резки,первый пролёт . 
+ ООО «Мелитопольский хлебокомбинат»</Title>
+    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_757>
+  <_756>
+    <Time>Wed Dec 18 2019 02:45:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Производство не несущих перегородок и потолков из профлиста и профильного проката с работами по установке и креплению конструкцій на участе упаковки и резки хлебобулочных изделий. 
+ ООО «Мелитопольский хлебокомбинат»</Title>
+    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_756>
+  <_755>
+    <Time>Fri Dec 20 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Вузол діафрагменої різки на ТДВ "Запорізький хлібокомбінат №1"</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_755>
+  <_754>
+    <Time>Fri Dec 20 2019 06:45:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Стріч.конв.Ropanyl EF 7/1 0+65 White FG</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_754>
+  <_753>
+    <Time>Mon Dec 16 2019 05:30:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>масло дезодарированое, декабрь 2019, 900 кг</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_753>
+  <_750>
+    <Time>Wed Dec 18 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>ГСМ</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_750>
+  <____>
+    <Time>Wed Dec 18 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Запрос ценовых предложений</Type>
+    <Title>Брендирование ( поклейка пленки ) автомобилей Renault Master - 18 шт</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-13-1000001-z</Link>
+  </____>
  </Tenders>
 </data>
 
