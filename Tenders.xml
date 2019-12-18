@@ -1,6 +1,6 @@
 <data>
 <Tenders>
-  <____>
+<____>
     <Time>Mon Dec 16 2019 04:00:00 GMT-0500 (EST)</Time>
     <Type>Запрос ценовых предложений</Type>
     <Title>Жито - ДСТУ 4522:2006</Title>
@@ -157,6 +157,63 @@
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
     <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-13-1000001-z</Link>
   </____>
+  <____>
+    <Time>Fri Dec 20 2019 09:26:00 GMT-0500 (EST)</Time>
+    <Type>Запрос ценовых предложений</Type>
+    <Title>Закупівля рідкого азоту</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-17-000038-z</Link>
+  </____>
+  <____>
+    <Time>Fri Dec 20 2019 09:26:00 GMT-0500 (EST)</Time>
+    <Type>Запрос ценовых предложений</Type>
+    <Title>Закупівля апельсинів, лайму та імбирю</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-17-000037-z</Link>
+  </____>
+  <____>
+    <Time>Fri Dec 20 2019 09:26:00 GMT-0500 (EST)</Time>
+    <Type>Запрос ценовых предложений</Type>
+    <Title>Закупівля м'яса курки</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-17-000033-z</Link>
+  </____>
+  <_767>
+    <Time>Fri Jan 10 2020 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Ремонт помещения диспетчерской на ОДО «Бердянский хлебокомбинат».</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_767>
+  <_765>
+    <Time>Thu Dec 19 2019 03:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пакет п/єт 47(10+10)*68см, 20мкм</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_765>
+  <_764>
+    <Time>Mon Dec 23 2019 02:45:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Строительные работы по укреплению потолочных перекритий, ремонту стен и проведению косметического ремонта помещений экспедиции отдела сбыта
+ ООО «Мелитопольский хлебокомбинат»</Title>
+    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_764>
+  <_763>
+    <Time>Wed Dec 18 2019 03:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пленка ВОРР 400мм/25мкм</Title>
+    <Company>ТДВ "Запорізький хлібозавод №5"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_763>
+  <_761>
+    <Time>Fri Dec 20 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Замена оконных блоков светоаэрационного фонаря на ОДО «Бердянский хлебокомбинат</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_761>
  </Tenders>
 </data>
 
