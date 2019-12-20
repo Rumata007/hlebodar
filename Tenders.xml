@@ -1,6 +1,6 @@
 <data>
 <Tenders>
-<____>
+  <____>
     <Time>Mon Dec 16 2019 04:00:00 GMT-0500 (EST)</Time>
     <Type>Запрос ценовых предложений</Type>
     <Title>Жито - ДСТУ 4522:2006</Title>
@@ -214,6 +214,76 @@
     <Company>ТДВ "Бердянський хлібокомбінат"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_761>
+  <_777>
+    <Time>Thu Dec 26 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>шортенинг на январь , 2020, объем 12 тонн.</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_777>
+  <_776>
+    <Time>Tue Dec 24 2019 09:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>шортенинг на январь , 2020</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_776>
+  <_775>
+    <Time>Mon Dec 23 2019 07:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>маргарин молочный 82%, январь, 2020</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_775>
+  <_774>
+    <Time>Mon Dec 23 2019 03:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>маргарин безтрансовый на январь 2020</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_774>
+  <_773>
+    <Time>Mon Dec 23 2019 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>солод на январь, 2020</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_773>
+  <_772>
+    <Time>Mon Dec 23 2019 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>клейковина на январь 2020</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_772>
+  <_771>
+    <Time>Fri Dec 20 2019 03:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>фруктоза на январь 2020</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_771>
+  <_770>
+    <Time>Tue Dec 24 2019 04:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пленка с ламинацией ВОРР+ВОРР "Печенье кукурузное"</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_770>
+  <_769>
+    <Time>Mon Dec 23 2019 07:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пленка с ламинацией ВОРР+ВОРР "Печенье овсяное к чаю"</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_769>
+  <_768>
+    <Time>Tue Dec 24 2019 04:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пакет с ламинацией ВОРР+ВОРР "Сухари новокиевские Хлебодар" 180*260, 20+20</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_768>
  </Tenders>
 </data>
 
