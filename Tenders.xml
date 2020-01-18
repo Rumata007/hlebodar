@@ -1,98 +1,89 @@
 <data>
 <Tenders>
-<____>
-    <Time>Wed Dec 18 2019 05:00:00 GMT-0500 (EST)</Time>
-    <Type>Запрос ценовых предложений</Type>
-    <Title>Брендирование ( поклейка пленки ) автомобилей Renault Master - 18 шт</Title>
+  <_811>
+    <Time>Fri Jan 24 2020 08:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Атозапастини на 2020 рік</Title>
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-13-1000001-z</Link>
-  </____>
-  <____>
-    <Time>Fri Dec 20 2019 09:26:00 GMT-0500 (EST)</Time>
-    <Type>Запрос ценовых предложений</Type>
-    <Title>Закупівля рідкого азоту</Title>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_811>
+  <_810>
+    <Time>Wed Jan 22 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Природній газ 09123000-7</Title>
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-17-000038-z</Link>
-  </____>
-  <____>
-    <Time>Fri Dec 20 2019 09:26:00 GMT-0500 (EST)</Time>
-    <Type>Запрос ценовых предложений</Type>
-    <Title>Закупівля апельсинів, лайму та імбирю</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-17-000037-z</Link>
-  </____>
-  <____>
-    <Time>Fri Dec 20 2019 09:26:00 GMT-0500 (EST)</Time>
-    <Type>Запрос ценовых предложений</Type>
-    <Title>Закупівля м'яса курки</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2019-12-17-000033-z</Link>
-  </____>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_810>
+  <_809>
+    <Time>Thu Jan 16 2020 10:40:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Цукор-пісок 3 кат. 2019 р.в.</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_809>
+  <_808>
+    <Time>Thu Jan 16 2020 09:15:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Цукор-пісок 3 кат., 2019 р.в.</Title>
+    <Company>ТОВ "ФІТА ТРЕЙД"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_808>
+  <_807>
+    <Time>Mon Jan 20 2020 03:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>клейковина на январь 2020</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_807>
+  <_806>
+    <Time>Thu Jan 23 2020 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Устройство топинговых полов коридора складских помещений на ОДО «Бердянский хлебокомбинат».</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_806>
+  <_805>
+    <Time>Tue Jan 21 2020 07:15:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Демонтаж, монтаж газоходов, вытяжной вентиляции печей «Gostol-Gopan» на ОДО «Бердянский хлебокомбинат»</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_805>
+  <_804>
+    <Time>Tue Jan 21 2020 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Перенос печей, шкафов окончательной расстойки «Gostol-Gopan» на ОДО «Бердянский хлебокомбинат»</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_804>
+  <_803>
+    <Time>Mon Jan 20 2020 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Устройство металлических полов на булочном участке на ОДО «Бердянский хлебокомбинат»</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_803>
   <_802>
     <Time>Fri Jan 17 2020 02:00:00 GMT-0500 (EST)</Time>
-    <Type>ТДВ "Бердянський хлібокомбінат"</Type>
+    <Type>Тендер (RFx)</Type>
     <Title>Проектные работы по газоиспользующему оборудованию на ОДО «Бердянский хлебокомбинат».</Title>
     <Company>ТДВ "Бердянський хлібокомбінат"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_802>
-  <_757>
-    <Time>Fri Jan 17 2020 02:00:00 GMT-0500 (EST)</Time>
-    <Type>Мелітопольський хлібокомбінат ТОВ</Type>
-    <Title>Ремонт стен и удаление не нужных конструкций в помещениях основного корпуса участка упаковки и резки,первый пролёт . 
- ООО «Мелитопольский хлебокомбинат»</Title>
-    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_757>
   <_801>
-    <Time>Thu Jan 16 2020 02:00:00 GMT-0500 (EST)</Time>
-    <Type>ТДВ "Запорізький хлібозавод №5"</Type>
+    <Time>Fri Jan 24 2020 02:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
     <Title>Модернизация дозатора МД-100 с механического принципа действия на электронный ОДО «Запорожский хлебозавод №5»</Title>
     <Company>ТДВ "Запорізький хлібозавод №5"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_801>
   <_795>
     <Time>Wed Jan 15 2020 08:00:00 GMT-0500 (EST)</Time>
-    <Type>ТДВ "Запорізький хлібокомбінат №1"</Type>
+    <Type>Тендер (RFx)</Type>
     <Title>Работы по ремонту мужских бытовых помещений в цехе №1 площадью 107 м², на ОДО «Запорожский хлебокомбинат №1»</Title>
     <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_795>
-  <_764>
-    <Time>Wed Jan 15 2020 02:00:00 GMT-0500 (EST)</Time>
-    <Type>Мелітопольський хлібокомбінат ТОВ</Type>
-    <Title>Строительные работы по укреплению потолочных перекритий, ремонту стен и проведению косметического ремонта помещений экспедиции отдела сбыта
- ООО «Мелитопольский хлебокомбинат»</Title>
-    <Company>Мелітопольський хлібокомбінат ТОВ</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_764>
-  <_798>
-    <Time>Mon Jan 13 2020 06:00:00 GMT-0500 (EST)</Time>
-    <Type>ТДВ "Запорізький хлібокомбінат №1"</Type>
-    <Title>Гофроящики и гофролотки</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_798>
-  <_797>
-    <Time>Mon Jan 13 2020 04:00:00 GMT-0500 (EST)</Time>
-    <Type>ТДВ "Запорізький хлібокомбінат №1"</Type>
-    <Title>Пленка стретч в ассортименте</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_797>
-  <_796>
-    <Time>Mon Jan 13 2020 02:00:00 GMT-0500 (EST)</Time>
-    <Type>ТДВ "Запорізький хлібокомбінат №1"</Type>
-    <Title>Стріч.конв.Nonex EM 8/200+0.5WGF кут186% Вн.рад 1910 мм/внут.рад 810мм/шир.1100мм/отв.215шт диам.6мм</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_796>
-  <_767>
-    <Time>Mon Jan 13 2020 02:00:00 GMT-0500 (EST)</Time>
-    <Type>ТДВ "Бердянський хлібокомбінат"</Type>
-    <Title>Ремонт помещения диспетчерской на ОДО «Бердянский хлебокомбинат».</Title>
-    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_767>
  </Tenders>
 </data>
 
