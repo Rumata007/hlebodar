@@ -1,6 +1,6 @@
 <data>
 <Tenders>
-  <_811>
+<_811>
     <Time>Fri Jan 24 2020 08:00:00 GMT-0500 (EST)</Time>
     <Type>Тендер (RFx)</Type>
     <Title>Атозапастини на 2020 рік</Title>
@@ -119,6 +119,42 @@
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
     <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2020-01-17-1000010-z</Link>
   </____>
- </Tenders>
+  <_822>
+    <Time>Wed Jan 29 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Ацетат Кальция, февраль, 2020</Title>
+    <Company>ТДВ "Запорізький хлібозавод №3"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_822>
+  <_820>
+    <Time>Fri Jan 31 2020 04:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Бумага пергамент силиконизированный рез 800*970мм, 39г/м2</Title>
+    <Company>ООО "УК Агросервис 2000"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_820>
+  <_819>
+    <Time>Tue Jan 28 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Брикети твердопаливні</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_819>
+  <_818>
+    <Time>Tue Jan 28 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Брикети твердопаливні</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_818>
+  <_817>
+    <Time>Tue Jan 28 2020 07:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Повидло яблучне - ДСТУ 6072-2009
+ или другая НД на Январь 2020</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_817>
+</Tenders>
 </data>
 
