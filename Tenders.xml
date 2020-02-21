@@ -1,117 +1,167 @@
 <data>
 <Tenders>
- <____>
+<____>
     <Time>Thu Jan 30 2020 17:00:00 GMT-0500 (EST)</Time>
     <Type>Тендер (RFx)</Type>
     <Title>Закупівля крану на гусеничному ходу HITACHI KH-150 , КН-180 (або аналог виробництва Японія 1990 -2000 р.р. )</Title>
     <Company>ТОВ "ТРЕЙД ХАБ"</Company>
     <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2020-01-17-1000010-z</Link>
   </____>
-  <_922>
-    <Time>Tue Feb 18 2020 05:30:00 GMT-0500 (EST)</Time>
+  <_944>
+    <Time>Fri Feb 21 2020 09:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>РМК, Колодки Дніпро</Title>
+    <Title>Одесса запчастини та шини</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_944>
+  <_942>
+    <Time>Thu Feb 20 2020 08:30:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>диск колісний Софіївська Борщагівка</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_922>
-  <_921>
-    <Time>Tue Feb 18 2020 04:54:00 GMT-0500 (EST)</Time>
+  </_942>
+  <_941>
+    <Time>Thu Feb 20 2020 07:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>Запоріжжя TIR PARKING</Title>
+    <Title>Поставка Миколаїв</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_921>
-  <_920>
-    <Time>Tue Feb 18 2020 05:00:00 GMT-0500 (EST)</Time>
+  </_941>
+  <_940>
+    <Time>Thu Feb 20 2020 07:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>Дніпро Олива+ Фільтри</Title>
+    <Title>Сервопривід зчеплення Запоріжжя, TIR PARKING</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_920>
-  <_919>
-    <Time>Tue Feb 18 2020 04:45:00 GMT-0500 (EST)</Time>
+  </_940>
+  <_939>
+    <Time>Thu Feb 20 2020 06:45:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>!Запчастини напівпричеп Луцьк Терміново!</Title>
+    <Title>Запчастини, масло Луцьк</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_919>
-  <_918>
-    <Time>Tue Feb 18 2020 04:15:00 GMT-0500 (EST)</Time>
+  </_939>
+  <_938>
+    <Time>Thu Feb 20 2020 06:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>Запчастини Дніпро Терміново!</Title>
+    <Title>Цукор-пісок 3 кат. 2019 р.в. Запорожский хлебокомбинат №1</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_938>
+  <_937>
+    <Time>Fri Feb 21 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Цукор-пісок 3 кат. 2019 р.в. Запорожский хлебокомбинат №1</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_937>
+  <_936>
+    <Time>Thu Feb 20 2020 04:30:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Редуктор ЗІЛ Дубно</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_918>
-  <_917>
-    <Time>Tue Feb 18 2020 04:00:00 GMT-0500 (EST)</Time>
+  </_936>
+  <_935>
+    <Time>Thu Feb 20 2020 04:15:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>Ресора Києво-Святошинський р-н</Title>
+    <Title>Дніпро ДИ-СТАНЦІЯ</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_917>
-  <_916>
-    <Time>Tue Feb 18 2020 05:30:00 GMT-0500 (EST)</Time>
+  </_935>
+  <_934>
+    <Time>Thu Feb 20 2020 04:15:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>Стабілізатор Луцьк</Title>
+    <Title>Запчастини Луцьк Король</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_916>
-  <_915>
-    <Time>Tue Feb 18 2020 04:45:00 GMT-0500 (EST)</Time>
+  </_934>
+  <_933>
+    <Time>Thu Feb 20 2020 04:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>Запчастини Полтава</Title>
+    <Title>Запчастини Луцьк</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_915>
-  <_914>
-    <Time>Tue Feb 18 2020 05:00:00 GMT-0500 (EST)</Time>
+  </_933>
+  <_932>
+    <Time>Wed Feb 26 2020 03:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
-    <Title>Запчастини Миколаїв</Title>
-    <Company>ВКФ «ВІТА-АВТО»</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_914>
-  <_913>
-    <Time>Tue Feb 18 2020 04:00:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>!Ліхтар Фара Антифриз Луцьк!</Title>
-    <Company>ВКФ «ВІТА-АВТО»</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_913>
-  <_912>
-    <Time>Tue Feb 18 2020 04:00:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Автошина 8,25R20 125/122J (У-2), 10 сл, с камерой без ободной ленты (НкШЗ)</Title>
+    <Title>Запчастини та матеріали до холодильного обладнання</Title>
     <Company>Приватне підприємство "Бісквіто-Мілк"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_912>
+  </_932>
+  <_931>
+    <Time>Wed Feb 26 2020 03:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Холодоагент R22, R134A, R404A, R406, R141</Title>
+    <Company>Приватне підприємство "Бісквіто-Мілк"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_931>
+  <_930>
+    <Time>Thu Feb 20 2020 04:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Диск колісний
+ Циліндр гальмівний задній</Title>
+    <Company>Приватне підприємство "Бісквіто-Мілк"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_930>
+  <_928>
+    <Time>Tue Feb 25 2020 06:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Закупка и монтаж оборудования для вентиляции, отопления, кондиционирования на ОДО «Бердянский хлебокомбинат»</Title>
+    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_928>
+  <_927>
+    <Time>Fri Feb 21 2020 04:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Пленка ВОРР "Сухари горчичное поле АТБ"</Title>
+    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_927>
+  <_926>
+    <Time>Fri Feb 21 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Мішки поліетиленові на ШЗПТ</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_926>
+  <_925>
+    <Time>Fri Feb 21 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Стрейч, скотч на ШЗПТ</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_925>
+  <_924>
+    <Time>Fri Feb 21 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Тендер (RFx)</Type>
+    <Title>Плівка поліпропіленова з друком на ШЗПТ</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_924>
+  <_923>
+    <Time>Mon Feb 24 2020 05:00:00 GMT-0500 (EST)</Time>
+    <Type>Аукцион/Редукцион</Type>
+    <Title>Природній газ 09123000-7</Title>
+    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+  </_923>
   <_911>
-    <Time>Tue Feb 18 2020 04:00:00 GMT-0500 (EST)</Time>
+    <Time>Tue Feb 18 2020 11:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
     <Title>ТАХОГРАФ цифровий SE 5000 EXAKT DUO² STONERIDGE</Title>
     <Company>Приватне підприємство "Бісквіто-Мілк"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_911>
   <_910>
-    <Time>Tue Feb 18 2020 04:30:00 GMT-0500 (EST)</Time>
+    <Time>Thu Feb 20 2020 05:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
     <Title>запчастини, росхідні матеріали Київ</Title>
     <Company>ВКФ «ВІТА-АВТО»</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_910>
-  <_909>
-    <Time>Tue Feb 18 2020 04:00:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Запчастини Луцьк</Title>
-    <Company>ВКФ «ВІТА-АВТО»</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_909>
-  <_897>
-    <Time>Tue Feb 18 2020 05:15:00 GMT-0500 (EST)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Запчастини Volvo Рівне</Title>
-    <Company>ВКФ «ВІТА-АВТО»</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_897>
   <_896>
     <Time>Fri Feb 14 2020 05:00:00 GMT-0500 (EST)</Time>
     <Type>Аукцион/Редукцион</Type>
@@ -126,15 +176,8 @@
     <Company>ТДВ "Запорізький хлібозавод №5"</Company>
     <Link>http://aps.hlebodar.com:8020/supplier/</Link>
   </_872>
-  <_854>
-    <Time>Mon Feb 10 2020 01:30:00 GMT-0500 (EST)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Системний блок на базі Intel G4400/H110/DDR4 4Gb/SSD 500 GB/ATX 400W</Title>
-    <Company>Приватне підприємство "Бісквіто-Мілк"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_854>
   <_844>
-    <Time>Wed Feb 19 2020 02:00:00 GMT-0500 (EST)</Time>
+    <Time>Mon Feb 24 2020 02:00:00 GMT-0500 (EST)</Time>
     <Type>Тендер (RFx)</Type>
     <Title>Работы по выгораживанию участка восточных сладостей площадью 190 м², площадь ограждения составляет 105 м², на ОДО «Запорожский хлебокомбинат №1»</Title>
     <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
