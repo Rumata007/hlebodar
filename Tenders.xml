@@ -1,117 +1,138 @@
 <data>
 <Tenders>
-  <____>
-    <Time>Thu Jan 30 2020 17:00:00 GMT-0500 (EST)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Закупівля крану на гусеничному ходу HITACHI KH-150 , КН-180 (або аналог виробництва Японія 1990 -2000 р.р. )</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>https://zakupki.prom.ua/commercial/tenders/R-UA-2020-01-17-1000010-z</Link>
-  </____>
-  <_1068>
-    <Time>Thu Mar 19 2020 08:00:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Пленка ВОРР 400мм/25мкм</Title>
-    <Company>ТДВ "Запорізький хлібозавод №5"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1068>
-  <_1067>
-    <Time>Mon Mar 16 2020 08:00:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Пленка с ламинацией ВОРР+ВОРР "Своя линия"</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1067>
-  <_1066>
-    <Time>Fri Mar 13 2020 09:00:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Цукор-пісок 1-3 кат. 2019 р.в.</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1066>
-  <_1063>
-    <Time>Mon Mar 16 2020 08:00:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Пленка ВОРР "Сухари горчичное поле АТБ"</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1063>
-  <_1062>
-    <Time>Mon Mar 16 2020 04:00:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Скотч прозрачный в ассортименте</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1062>
-  <_1061>
-    <Time>Mon Mar 16 2020 06:00:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Этикетки картонные Монолит</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1061>
-  <_1060>
-    <Time>Fri Mar 13 2020 09:30:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Пакеты ВОРР с ламинацией</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1060>
-  <_1059>
-    <Time>Thu Mar 12 2020 10:00:00 GMT-0400 (EDT)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Закупівля засобів захисту час підвищенної епідеміологічної загрози</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1059>
-  <_1053>
-    <Time>Fri Mar 20 2020 02:00:00 GMT-0400 (EDT)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Шпагат х/б 1200т ковбас.(білий)</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1053>
-  <_1052>
-    <Time>Tue Mar 10 2020 06:00:00 GMT-0400 (EDT)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Термоклей в штіфтах для ШЗПТ</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1052>
-  <_1035>
-    <Time>Fri Mar 20 2020 06:00:00 GMT-0400 (EDT)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Папір А4 (2500арк)</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1035>
-  <_1034>
-    <Time>Mon Mar 09 2020 06:00:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Гофроупаковка ШЗПТ</Title>
-    <Company>ТОВ "ТРЕЙД ХАБ"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1034>
-  <_1032>
-    <Time>Thu Mar 12 2020 07:45:00 GMT-0400 (EDT)</Time>
-    <Type>Аукцион/Редукцион</Type>
-    <Title>Выполнение работ по ремонту помещения склада готовой продукции в цехе №1 площадью 140 м², на ОДО «Запорожский хлебокомбинат №1»</Title>
-    <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1032>
-  <_1030>
-    <Time>Fri Mar 06 2020 02:00:00 GMT-0500 (EST)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Спецодежда на 04.2020</Title>
-    <Company>Запоріжхлібтранс ТОВ</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1030>
-  <_1026>
-    <Time>Fri Mar 13 2020 03:00:00 GMT-0400 (EDT)</Time>
-    <Type>Тендер (RFx)</Type>
-    <Title>Изготовление, демонтаж старых, монтаж металлопластиковых дверей бытовых помещений на ОДО «Бердянский хлебокомбинат.</Title>
-    <Company>ТДВ "Бердянський хлібокомбінат"</Company>
-    <Link>http://aps.hlebodar.com:8020/supplier/</Link>
-  </_1026>
+  <_1108>
+      <Time>Fri Mar 20 2020 10:20:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Запчастини м.Тернопіль</Title>
+      <Company>ВКФ «ВІТА-АВТО»</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1108>
+    <_1107>
+      <Time>Fri Mar 20 2020 09:30:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Запчастини Миколаїв</Title>
+      <Company>ВКФ «ВІТА-АВТО»</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1107>
+    <_1105>
+      <Time>Wed Mar 25 2020 03:00:00 GMT-0400 (EDT)</Time>
+      <Type>Тендер (RFx)</Type>
+      <Title>Сетка подовая для АО «Черновецкий хлебокомбинат»</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1105>
+    <_1102>
+      <Time>Thu Mar 26 2020 07:30:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Плівка ВОРР 25мкм</Title>
+      <Company>ООО "УК Агросервис 2000"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1102>
+    <_1101>
+      <Time>Mon Mar 23 2020 08:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Пакеты бумажные саше в ассортименте</Title>
+      <Company>ООО "УК Агросервис 2000"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1101>
+    <_1100>
+      <Time>Mon Mar 23 2020 05:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Пленка стретч в ассортименте</Title>
+      <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1100>
+    <_1099>
+      <Time>Fri Mar 20 2020 08:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Пакет ВОРР с центральным швом 105(25+25)180</Title>
+      <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1099>
+    <_1098>
+      <Time>Mon Mar 23 2020 08:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Сіль вуглеамонійна (гідрокарбонат аммонія харчовий) Апрель- Май 2020</Title>
+      <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1098>
+    <_1097>
+      <Time>Fri Mar 20 2020 08:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Гофролотки с перфорацией в ассортименте</Title>
+      <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1097>
+    <_1091>
+      <Time>Mon Mar 23 2020 06:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Стрейч плівка п/е, ручна 2,45кг нетто, 20мкм</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1091>
+    <_1089>
+      <Time>Mon Mar 23 2020 06:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Стрейч, скотч для ШЗПТ</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1089>
+    <_1085>
+      <Time>Tue Mar 31 2020 05:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>плівка поліпропіленова 40мкм з друком та без друку для ШЗПТ</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1085>
+    <_1080>
+      <Time>Mon Mar 23 2020 06:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Природній газ 09123000-7</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1080>
+    <_1079>
+      <Time>Thu Mar 26 2020 06:00:00 GMT-0400 (EDT)</Time>
+      <Type>Аукцион/Редукцион</Type>
+      <Title>Мішки поліпропіленові 50кг, нитки мішкозашивочні для ШЗПТ</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1079>
+    <_1074>
+      <Time>Mon Mar 23 2020 06:00:00 GMT-0400 (EDT)</Time>
+      <Type>Тендер (RFx)</Type>
+      <Title>Холодильна шафа Капри 0,7 М МХМ</Title>
+      <Company>ТДВ "Запорізький хлібозавод №3"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1074>
+    <_1059>
+      <Time>Thu Mar 12 2020 10:00:00 GMT-0400 (EDT)</Time>
+      <Type>Тендер (RFx)</Type>
+      <Title>Закупівля засобів захисту час підвищенної епідеміологічної загрози</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1059>
+    <_1053>
+      <Time>Fri Mar 20 2020 02:00:00 GMT-0400 (EDT)</Time>
+      <Type>Тендер (RFx)</Type>
+      <Title>Шпагат х/б 1200т ковбас.(білий)</Title>
+      <Company>ТДВ "Запорізький хлібокомбінат №1"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1053>
+    <_1052>
+      <Time>Tue Mar 10 2020 06:00:00 GMT-0400 (EDT)</Time>
+      <Type>Тендер (RFx)</Type>
+      <Title>Термоклей в штіфтах для ШЗПТ</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1052>
+    <_1035>
+      <Time>Fri Mar 20 2020 06:00:00 GMT-0400 (EDT)</Time>
+      <Type>Тендер (RFx)</Type>
+      <Title>Папір А4 (2500арк)</Title>
+      <Company>ТОВ "ТРЕЙД ХАБ"</Company>
+      <Link>http://aps.hlebodar.com:8020/supplier/</Link>
+    </_1035>
   </Tenders>
 </data>
 
